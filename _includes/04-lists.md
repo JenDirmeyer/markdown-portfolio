@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Education
+* Learning
+  * Growth
+  * Personal Work
